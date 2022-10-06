@@ -31,3 +31,9 @@ When you view a snippet on the Android app, we simply load the **snippet's data 
 
 <a href="https://github.com/LmaxplayG" target="_blank">Lmaxplay</a><br>
 <img src="https://avatars.githubusercontent.com/u/107948697?v=4" style="width: 100px;height: 100px;" alt="Yumithecat">
+
+## 🌐 Links 💻
+<a href="https://srv.newdale.net/public/grid/8AYlwZDHR2no-tIPRZm4vDVoTJa4PPJex52gDN9BPBU" target="_blank">Public snippet database</a><br>
+
+<a href="https://github.com/LmaxplayG" target="_blank">Lmaxplay</a><br>
+
