@@ -28,3 +28,6 @@ When you view a snippet on the Android app, we simply load the **snippet's data 
 ## 😁 Contributors 🎉
 <a href="https://yumithecat.newdale.net" target="_blank">Yumithecat</a><br>
 <img src="https://avatars.githubusercontent.com/u/89903745?v=4" style="width: 100px;height: 100px;" alt="Yumithecat">
+
+<a href="https://github.com/LmaxplayG" target="_blank">Lmaxplay</a><br>
+<img src="https://avatars.githubusercontent.com/u/107948697?v=4" style="width: 100px;height: 100px;" alt="Yumithecat">
