@@ -35,5 +35,4 @@ When you view a snippet on the Android app, we simply load the **snippet's data 
 ## 🌐 Links 💻
 <a href="https://srv.newdale.net/public/grid/8AYlwZDHR2no-tIPRZm4vDVoTJa4PPJex52gDN9BPBU" target="_blank">Public snippet database</a><br>
 
-<a href="https://github.com/LmaxplayG" target="_blank">Lmaxplay</a><br>
 
