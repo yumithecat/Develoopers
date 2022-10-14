@@ -1,3 +1,6 @@
+<img src="https://img.shields.io/github/issues/yumithecat/Develoopers"></img>
+<img src="https://img.shields.io/github/license/yumithecat/Develoopers"></img>
+<img src="https://img.shields.io/github/v/release/yumithecat/Develoopers?label=latest%20release"></img>
 # Develoopers web
 The Develoopers web-app makes it possible to use Develoopers on more than just Android devices, opening a new door to the community.
 
