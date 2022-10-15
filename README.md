@@ -38,5 +38,8 @@ When you view a snippet on the Android app, we simply load the **snippet's data 
 ## 🌐 Links 💻
 <a href="https://srv.newdale.net/public/grid/8AYlwZDHR2no-tIPRZm4vDVoTJa4PPJex52gDN9BPBU" target="_blank">Public snippet database</a><br>
 <a href="https://app.develoopers.net/" target="_blank">Develoopers webapp</a><br>
+<a href="https://develoopers.net/tos" target="_blank">Develoopers TOS</a><br>
+<a href="https://develoopers.net/privacy" target="_blank">Develoopers PRIVACY</a><br>
+<a href="https://develoopers.net/a-download" target="_blank">Android app</a><br>
 
 
